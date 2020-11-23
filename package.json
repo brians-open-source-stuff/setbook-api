@@ -1,0 +1,24 @@
+{
+  "name": "setbook-api",
+  "version": "1.0.0",
+  "description": "RESTful API for the SetBook Fitness Web App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brians-open-source-stuff/setbook-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "setbook"
+  ],
+  "author": "Brian Emilius <brian@brianemilius.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brians-open-source-stuff/setbook-api/issues"
+  },
+  "homepage": "https://github.com/brians-open-source-stuff/setbook-api#readme"
+}
